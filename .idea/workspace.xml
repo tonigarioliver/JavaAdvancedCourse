@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="364c64fc-b955-4131-8479-61da25e97314" name="Changes" comment="Exercise 6 finished">
-      <change afterPath="$PROJECT_DIR$/src/Exercise12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/UsersIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mediator/Colega.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mediator/ColegaConcreto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mediator/ColegaConcreto2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mediator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mediator/MediatorConcreto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/Emisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/Receptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/ReceptorRadio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/ReceptorSatelite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/BlockState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/OpenedCameraState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/TakePictureState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/Telefono.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/UnblockedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/Usuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/UsuariosFichero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/UsuariosMemoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise13/ArrayBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise13/DivideFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise13/EditFileTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise13/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +35,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -67,20 +49,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise12.Main">
-    <configuration name="Chapter2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.Main" />
-      <module name="JavaAdvancedCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Exercise12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise12.Main" />
       <module name="JavaAdvancedCourse" />
@@ -100,6 +69,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExerciseSingleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise13.Main" />
+      <module name="JavaAdvancedCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exercise12.Main" />
         <item itemvalue="Application.Mediator.Main" />
         <item itemvalue="Application.Observer.Main" />
         <item itemvalue="Application.ExerciseSingleton.Main" />
-        <item itemvalue="Application.Chapter2.Main" />
       </list>
     </recent_temporary>
   </component>
