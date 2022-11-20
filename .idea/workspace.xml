@@ -2,10 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="364c64fc-b955-4131-8479-61da25e97314" name="Changes" comment="Exercise 6 finished">
-      <change afterPath="$PROJECT_DIR$/src/Exercise13/ArrayBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise13/DivideFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise13/EditFileTxt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/Usuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/UsuariosMemoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion19/Options.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion19/OptionsParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion20/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion20/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion20/MainSOLID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion20/SOLIDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion20/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion20/Usuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion20/UsuariosMemoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion20/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion21/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion21/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion21/Usuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sesion21/UsuariosMemoria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,29 +48,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/tonie/IdeaProjects/JavaAdvanceLessons/demo/demo",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tonie/IdeaProjects/JavaAdvancedCourse/src/Ejercicio14&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Exercise12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise12.Main" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tonie\IdeaProjects\JavaAdvancedCourse\src\Ejercicio14" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tonie\IdeaProjects\JavaAdvancedCourse\src\Sesion21" />
+      <recent name="C:\Users\tonie\IdeaProjects\JavaAdvancedCourse\src\Sesion20" />
+      <recent name="C:\Users\tonie\IdeaProjects\JavaAdvancedCourse\src\Sesion19" />
+      <recent name="C:\Users\tonie\IdeaProjects\JavaAdvancedCourse\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ejercicio14" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ejercicio14.Main">
+    <configuration name="Ejercicio14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio14.Main" />
       <module name="JavaAdvancedCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise12.*" />
+          <option name="PATTERN" value="Ejercicio14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseSingleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseSingleton.Main" />
+    <configuration name="Exercise12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise12.Main" />
       <module name="JavaAdvancedCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciseSingleton.*" />
+          <option name="PATTERN" value="Exercise12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio14.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exercise12.Main" />
         <item itemvalue="Application.Mediator.Main" />
         <item itemvalue="Application.Observer.Main" />
-        <item itemvalue="Application.ExerciseSingleton.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667681908939</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercise 6 finished">
+      <created>1668806581885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668806581885</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,5 +194,31 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 6 finished" />
     <option name="LAST_COMMIT_MESSAGE" value="Exercise 6 finished" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ejercicio14/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ejercicio14/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ejercicio14/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ejercicio14/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
