@@ -78,6 +78,7 @@ public class Usuarios {
             for (Usuario usuarioExistente : this.listUsers) {
                 printStream.println(usuarioExistente.userParseToString());
             }
+            printStream.flush();
             printStream.close();
         } catch (Exception e) {
             System.out.println(e.getMessage());

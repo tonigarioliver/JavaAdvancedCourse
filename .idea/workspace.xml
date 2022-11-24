@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="364c64fc-b955-4131-8479-61da25e97314" name="Changes" comment="Exercise 6 finished">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/Usuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/UsuariosMemoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/users.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion19/Options.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion19/OptionsParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion20/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion20/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion20/MainSOLID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion20/SOLIDD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion20/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion20/Usuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion20/UsuariosMemoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion20/Vehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion21/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion21/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion21/Usuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sesion21/UsuariosMemoria.java" afterDir="false" />
+    <list default="true" id="364c64fc-b955-4131-8479-61da25e97314" name="Changes" comment="Exercise14 finished">
+      <change afterPath="$PROJECT_DIR$/src/Exercise22/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise22/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise22/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise22/FuelCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise22/HibridCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise22/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio14/Usuarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio14/Usuarios.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +66,7 @@
       <recent name="Ejercicio14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio14.Main">
+  <component name="RunManager" selected="Application.Exercise22.Main">
     <configuration name="Ejercicio14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio14.Main" />
       <module name="JavaAdvancedCourse" />
@@ -98,6 +86,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercise12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise22.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise22.Main" />
+      <module name="JavaAdvancedCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,26 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Observer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Observer.Main" />
-      <module name="JavaAdvancedCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise22.Main" />
         <item itemvalue="Application.Ejercicio14.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exercise12.Main" />
         <item itemvalue="Application.Mediator.Main" />
-        <item itemvalue="Application.Observer.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668806581885</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercise14 finished">
+      <created>1668966736452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668966736452</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercise14 finished">
+      <created>1668966769698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668966769698</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,32 +195,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 6 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 6 finished" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ejercicio14/Main.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ejercicio14/Main.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ejercicio14/Main.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ejercicio14/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Exercise14 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise14 finished" />
   </component>
 </project>
